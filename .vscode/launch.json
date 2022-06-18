@@ -1,0 +1,99 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "totvs_language_debug",
+			"request": "launch",
+			"name": "Depuração do idioma TOTVS",
+			"program": "${command:AskForProgramName}",
+			"cwb": "${workspaceFolder}",
+			"smartclientBin": "C:\\TOTVS12\\Harpia\\Protheus\\bin\\smartclient\\smartclient.exe",
+			"isMultiSession": true,
+			"enableTableSync": true
+		}
+	],
+	"lastPrograms": [
+		{
+			"label": "u_testando"
+		},
+		{
+			"label": "u_ValAllCaps"
+		},
+		{
+			"label": "u_SZ1CADASTRO"
+		},
+		{
+			"label": "u_testepergunte"
+		},
+		{
+			"label": "u_OlaMundo"
+		},
+		{
+			"label": "u_BANCO001"
+		},
+		{
+			"label": "u_BLOCO"
+		},
+		{
+			"label": "u_testealias"
+		},
+		{
+			"label": "u_testechr"
+		},
+		{
+			"label": "u_querySQL"
+		},
+		{
+			"label": "u_zTCQuery"
+		},
+		{
+			"label": "u_TRCLI"
+		},
+		{
+			"label": "u_BANCO002"
+		},
+		{
+			"label": "u_TDialog"
+		},
+		{
+			"label": "u_exerc02"
+		},
+		{
+			"label": "u_testecodeblock"
+		},
+		{
+			"label": "u_testquery"
+		},
+		{
+			"label": "u_AVETOR"
+		},
+		{
+			"label": "sigamdi"
+		},
+		{
+			"label": "u_testefuncoes"
+		},
+		{
+			"label": "u_testemail"
+		},
+		{
+			"label": "u_exe03"
+		},
+		{
+			"label": "u_exerc03"
+		},
+		{
+			"label": "u_testeval"
+		},
+		{
+			"label": "u_aglutinar"
+		},
+		{
+			"label": "u_TMata410"
+		},
+		{
+			"label": "u_desaglut"
+		}
+	],
+	"lastProgramExecuted": "u_aglutinar"
+}
